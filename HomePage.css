@@ -1,0 +1,148 @@
+@import
+url("https://fonts.googleapis.com/css?family=David+Libre:400);
+
+.home-page {
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 5018px;
+    padding: 37.5px 0;
+    width: 1280px;
+}
+
+.hidden 
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+    gap: 44px;
+    margin-right: 40.32px;
+    min-width: 1194px;
+}
+
+.elaborate-ignoramus {
+    height: 80px;
+    width: 693px;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    color: var(--black);
+    font-family: var (--font-family-david_libre);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    height: 62px;
+    letter-spacing: -0.88px;
+    line-height: 52px;
+    margin-bottom: 2.71px;
+    white-space: nowrap;
+    width: 458px;
+}
+
+.over-container {
+    align-items: center;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64879dbc09245468c83624f4/releases/64879e141b48cb8849a6d91f/img/rectangle-16.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 672px;
+    padding: 15.6px 0;
+    width: 340px;
+}
+
+.line-2 {
+    height: 1px;
+    margin-top: 80px;
+    object-fit: cover;
+    width: 330px;
+}
+
+.coming-soon-1 {
+    margin-left: 19.38px;
+    margin-top: 25px;
+}
+
+.home-page .coming-soon-3 {
+    align-self: flex-start;
+    height: 29px;
+    width 175px;
+}
+
+.line-3 {
+    height: 1px;
+    margin-top: 67px;
+    object-fit: cover;
+    width: 330px;
+}
+
+.line-6 {
+    height: 1px;
+    margin-top: 35px;
+    object-fit: cover;
+    width: 330px;
+}
+
+.line-4 {
+    height: 1px;
+    margin-top: 69px;
+    object-fit: cover;
+    width: 330px;
+}
+
+.line-5 {
+    height: 1px;
+    margin-top: 14px;
+    object-fit: cover;
+    width: 330px;
+}
+
+.coming-soon {
+    align-self: flex-start;
+    height: 29px;
+    margin-left: 19.38px;
+    margin-top: 18px;
+    width: 175px;
+}
+
+.coming-soon-2 {
+    margin-left: 20.38px;
+    margin-top: 18px;
+}
+
+.a-firm-y-pair-of-socks {
+    height: 70px;
+    margin-right: 23.97px;
+    margin-top: 17px;
+    width: 282px;
+}
+
+.archive {
+    align-self: flex-start;
+    height: 23px;
+    margin-left: 17.22px;
+    width: 95px;
+}
+
+.a-firm-y-pair-of-soc {
+    align-self: flex-end;
+    height: 4774px;
+    width: 906px;
+}
+
+.line-1 {
+    height: 9px;
+    margin-top: 25px;
+    object-fit: cover;
+    width: 1280px;
+}
